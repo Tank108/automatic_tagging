@@ -1,0 +1,8 @@
+moviepy==1.0.3
+fastapi==0.100.0
+uvicorn==0.22.0
+pyantic==2.0.2
+transoformers==4.30.2
+re==3.11.4
+keybert==0.7.0
+keyphrase-vectorizers==0.0.11
